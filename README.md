@@ -54,17 +54,6 @@ portfolio_pipeline/
 
 ---
 
-## Setup
-
-```bash
-git clone <this-repo-url>
-cd <repo-name>
-pip install -r requirements.txt   # numpy, pandas, cvxpy, scipy, matplotlib, jupyter
-jupyter notebook
-```
-
----
-
 ## Roadmap
 
 Planned additions, roughly in order:
