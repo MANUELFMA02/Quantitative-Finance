@@ -38,7 +38,7 @@ A working collection of notebooks built while preparing for quantitative researc
 - `Majority.ipynb`, `SubArraySum.ipynb`, `GridPaths.ipynb`, standard interview-style algorithm problems, kept alongside the finance notebooks as coding-interview prep
 
 ### 5. Portfolio Construction Pipeline *(new module)*
-A three-stage systematic allocation pipeline, added as its own subfolder:
+A three-stage systematic allocation pipeline:
 
 ```
 portfolio_pipeline/
